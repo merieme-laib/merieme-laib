@@ -1,4 +1,4 @@
-# Hi, I'm Mer! 
+# Hi, I'm Mer! 🎐
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=ebae9d&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Data+Science+Student;Data+%26+AI;Always+Learning+%26+Building" />
