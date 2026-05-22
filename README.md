@@ -29,7 +29,7 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,php,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php,html,css" />
 
 ### 🤖 AI & Data Science
 <code><img title="pandas" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg"></code>
