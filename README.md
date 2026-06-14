@@ -17,9 +17,9 @@
 
 <div align="center">
  
-🚀 **Passionate about:** Artificial Intelligence • Data Science • Web Development • Creative Coding • Game Development
+ **Passionate about:** Artificial Intelligence • Data Science • Web Development • Creative Coding • Game Development
 
-🌟 **Open to:** Internships • Data/AI Projects • Web Projects 
+ **Open to:** Internships • Data/AI Projects • Web Projects 
 </div>
 
 ---
