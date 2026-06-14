@@ -48,10 +48,10 @@
 
 <div align="center">
 
-** Looking for:** Internship or opportunities in Data or AI, especially in Tokyo
+**Looking for:** Internship or opportunities in Data or AI, especially in Tokyo
 
-** Interested in:** Creative tech projects, AI/Data applications, web experiences, and collaborative development
+**Interested in:** Creative tech projects, AI/Data applications, web experiences, and collaborative development
 
-** Always open to learning, building, and creating meaningful projects!**
+**Always open to learning, building, and creating meaningful projects!**
 
 </div>
