@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=ebae9d&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Data+Science+Student;Data+%26+AI;Always+Learning+%26+Building" />
 </div>
 
-<h3 align="center">🎓 Computer Science Student at Université Claude Bernard Lyon 1 </h3>
+<h3 align="center"> Computer Science Student at Université Claude Bernard Lyon 1 </h3>
 
 <div align="center">
   
@@ -48,10 +48,10 @@
 
 <div align="center">
 
-**🎯 Looking for:** Internship or opportunities in Data or AI, especially in Tokyo
+** Looking for:** Internship or opportunities in Data or AI, especially in Tokyo
 
-**💡 Interested in:** Creative tech projects, AI/Data applications, web experiences, and collaborative development
+** Interested in:** Creative tech projects, AI/Data applications, web experiences, and collaborative development
 
-**✨ Always open to learning, building, and creating meaningful projects!**
+** Always open to learning, building, and creating meaningful projects!**
 
 </div>
